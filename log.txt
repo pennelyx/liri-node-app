@@ -1,0 +1,45 @@
+node liri.js my-tweets
+Mon Jul 03 03:24:55 +0000 2017
+node liri.js my-tweets
+I Love Twitter
+Sun Jul 02 22:34:07 +0000 2017
+the 5th Tweet
+Sun Jul 02 22:28:47 +0000 2017
+node liri.js my-tweets
+And here comes the 4th one~
+node liri.js my-tweets
+Sun Jul 02 22:28:26 +0000 2017
+Now the third tweet!
+node liri.js my-tweets
+Sun Jul 02 19:50:15 +0000 2017
+Come to Cavs Melo
+node liri.js my-tweets
+Sun Jul 02 19:48:31 +0000 2017
+I am on tweet!!
+node liri.js my-tweets
+I Love Twitter
+Mon Jul 03 03:24:55 +0000 2017
+node liri.js my-tweets
+the 5th Tweet
+Sun Jul 02 22:34:07 +0000 2017
+node liri.js my-tweets
+Sun Jul 02 22:28:47 +0000 2017
+And here comes the 4th one~
+node liri.js my-tweets
+Sun Jul 02 22:28:26 +0000 2017
+Now the third tweet!
+node liri.js my-tweets
+Come to Cavs Melo
+Sun Jul 02 19:50:15 +0000 2017
+node liri.js my-tweets
+I am on tweet!!
+Sun Jul 02 19:48:31 +0000 2017
+Title of the movie: The Birdman
+Year the movie came out: 08 Aug 2013
+IMDB Rating of the movie: N/A
+Country where the movie was produced: USA
+Language of the movie: English
+Language of the movie: English
+Plot of the movie: With CDs, VHSs, and old cassette tapes stacked head high, Rainbow Music is a hoarders paradise, however, its quirky old owner, known as 'The Birdman', knows exactly where everything is and ...
+Actors in the movie: N/A
+URL: N/A
